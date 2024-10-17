@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.top{
+    background-color: #000000;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.bottom{
+    background-color: #222222;
+    padding: 15px 0;
+}
+
+.navbar_ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+    padding-left: 900px;
+}
+
+.navbar_ul li{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+    color: white;
+}
+
+.div{
+    width: 192px;
+    height: 82px;
+    background: #F1A900;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+    color: #000000;
+    padding-top: 25px;
+    padding-left: 49px;
+    margin-right: 57px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    padding-top: 15px;
+    padding-right: 285px;
+    padding-left: 302px;
+}
+
+.nav ul li{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+    text-align: center;
+    color: white;
+}
+
+.con{
+    background-image: url(image\ 5\ \(1\).png);
+    height: 797px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;  
+}
+
+.kubs{
+    display: flex;
+    gap: 64px;
+    padding-top: 349px;
+    padding-right: 453px;
+    padding-left: 453px;
+}
+
+
+.btn{
+    width: 235px;
+    height: 73px;
+    background: #F1A900;
+    border: none;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    padding: 13px 43px;
+    color: #000000;
+}
+
+.btn1{
+    width: 235px;
+    height: 73px;
+    background: #000000;
+    border: none;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;  
+    color: white;
+}
+
+.kub{
+    padding-top: 31px;
+    padding-right: 263px;
+    padding-left: 211px;
+}
+
+.btn2{
+    width: 966px;
+    height: 202px;
+    border-radius: 10px;
+    background: #F1A90054;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: center;
+    padding: 31px 21px;
+    border: none;
+    color: white;
+}
+
+.footer{
+    background-color: #000000;
+}
+
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav1_ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 52px;
+    padding: 28px 0;
+}
+
